@@ -29,7 +29,11 @@
     "diagram",
     "extension"
   ],
-  "author": "",
+  "author": "Igor Afanasyev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iafan/marked-mermaid-flowchart.git"
+  },
   "license": "Unlicense",
   "peerDependencies": {
     "marked": ">=4.0.0",
